@@ -18,6 +18,6 @@ int main(){
         if(arr[i] == target_num);
         cnt++;
     }
-    cout << cnt << endl;
+    cout << cnt;
     return 0;
 }
