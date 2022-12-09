@@ -15,6 +15,8 @@ int main(){
         cin >> v1 >> v2 >> v3;
         graph[v1].push_back(v2);
     }
+    
+    cout << "Hello, World!" << endl;
 
     return 0;
 }
