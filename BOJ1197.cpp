@@ -17,6 +17,7 @@ int main(){
     }
     
     cout << "Hello, World!" << endl;
+    cout << "Linear Algebra is too difficult :(" << endl;
 
     return 0;
 }
